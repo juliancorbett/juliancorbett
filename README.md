@@ -1,6 +1,9 @@
 # Julian Corbett
 
 ## About Me
-Hardware-focused engineer working across electronic design, FPGA architectures, and embedded software on STM platforms.
-Experienced in Altium Designer (schematic & PCB), low-level firmware, and system-level debugging.
-Interested in embedded security, firmware analysis, and hardware attack surfaces.
+Entry-level Cybersecurity Operator with an electronics background.
+
+Working on hardware-aware security projects, Linux internals, network analysis and offensive tooling.
+All progress is documented through structured GitHub projects.
+
+Target: operational readiness for global defense & technology firms by Q4 2026.
